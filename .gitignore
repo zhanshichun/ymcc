@@ -1,0 +1,3 @@
+# 项目排除路径
+/target/
+/ymcc_common/ymcc_common_core/target/
